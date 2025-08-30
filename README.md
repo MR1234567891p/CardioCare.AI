@@ -1,6 +1,6 @@
 # CardioCare.AI
 
-A comprehensive deep learning system for automatic detection and classification of cardiac arrhythmias from ECG signals, featuring advanced preprocessing techniques and a CNN-LSTM hybrid model.
+A comprehensive deep learning system that analyzes real-time 1D ECG data from wearables to detect heart diseases like arrhythmias, AFib, and MI. Using CNN and LSTM networks, it provides instant alerts for early detection, empowering users to take timely action and improve heart health.
 
 ## 🏥 Project Overview
 
