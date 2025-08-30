@@ -1,4 +1,4 @@
-# ECG Arrhythmia Detection with Deep Learning
+# CardioCare.AI
 
 A comprehensive deep learning system for automatic detection and classification of cardiac arrhythmias from ECG signals, featuring advanced preprocessing techniques and a CNN-LSTM hybrid model.
 
