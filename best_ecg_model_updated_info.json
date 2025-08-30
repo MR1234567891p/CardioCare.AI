@@ -1,0 +1,1 @@
+{"input_shape": [2500, 1], "num_classes": 7, "category_names": ["Normal", "Supraventricular", "Ventricular", "Fusion", "Unknown/Noise", "AFib", "ST changes"]}
