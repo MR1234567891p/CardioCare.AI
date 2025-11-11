@@ -1,0 +1,16 @@
+#  Core App Framework 
+streamlit==1.39.0
+
+#  Data Handling 
+pandas==2.2.3
+numpy==1.26.4
+
+# Visualization 
+matplotlib==3.9.2
+
+#  Extra Utilities 
+python-dateutil==2.9.0.post0
+Pillow==10.4.0
+
+# Optional (for smoother cloud caching & display) 
+altair==5.3.0
